@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "7b922b5aa21ef490",
+    "type": "split",
+    "children": [
+      {
+        "id": "f904e0d6e8f91e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b5ccb4ab7ba8734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro-java/Interagire col programma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68e2f31b84cabbfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro-java/Interagire col programma.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06a873a8ae4093e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro-java/Intro stringhe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3488a23a2064e799",
+    "type": "split",
+    "children": [
+      {
+        "id": "355843e5bae5e1d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20cf0fa3ac99750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96b91e203e9f76bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#game",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f6572cdeb57e684",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2bd4a84baaf67a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "870e155b52d2f1cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02be1f448fb31044",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intro-java/Interagire col programma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2deb4cb064da9be0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Intro-java/Interagire col programma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "150185446d1981b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c06658ab5b85114",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Intro-java/Interagire col programma.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "68e2f31b84cabbfd",
+  "lastOpenFiles": [
+    "Intro-java/Variabili.md",
+    "Intro-java/Intro array.md",
+    "Intro-java/Classe Integer.md",
+    "Intro-java/Dati primitivi.md",
+    "Intro-java/Cicli.md",
+    "Intro-java/Istruzioni condizionali.md",
+    "Intro-java/Casting.md",
+    "Intro-java/Intro stringhe.md",
+    "Intro-java/Random in java.md",
+    "Intro-java/Interagire col programma.md",
+    "Classe Integer.md",
+    "Intro-java"
+  ]
+}

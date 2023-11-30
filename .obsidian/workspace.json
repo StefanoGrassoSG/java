@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "c239249f3261d182",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9dd2912a76cf11d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5292320065942b6f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e78f18d09d444b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "da457c4354ebb117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b16069d09d56d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e5c68467acd3528",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5151187a7fe7894",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de472e2e4df2234a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4610598107d2fe3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46d43a09f034488e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42e188ebc3b24e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2947f45f578a253",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4b3e924c451cc28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "5292320065942b6f",
+  "lastOpenFiles": [
+    "java/Intro-java/Variabili.md",
+    "java/Intro-java/Random in java.md",
+    "java/Intro-java/Istruzioni condizionali.md",
+    "java/Intro-java/Intro stringhe.md",
+    "java/Intro-java/Intro array.md",
+    "java/Intro-java/Interagire col programma.md",
+    "java/Intro-java/Dati primitivi.md",
+    "java/Intro-java/Classe Integer.md",
+    "java/Intro-java/Cicli.md",
+    "java/Intro-java/Casting.md",
+    "java/Intro-java",
+    "java",
+    "Content/Intro-java/Variabili.md",
+    "Content/Intro-java/Random in java.md",
+    "Content/Intro-java/Istruzioni condizionali.md",
+    "Content/Intro-java/Intro stringhe.md",
+    "Content/Intro-java/Intro array.md",
+    "Content/Intro-java/Interagire col programma.md",
+    "Content/Intro-java/Dati primitivi.md",
+    "Content/Intro-java/Classe Integer.md",
+    "Content/Intro-java/Cicli.md",
+    "Content/Intro-java/Casting.md",
+    "Content/Intro-java",
+    "Content",
+    "Senza nome.canvas"
+  ]
+}
