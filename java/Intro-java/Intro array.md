@@ -80,7 +80,7 @@ Qua invece vediamo come modificare gli elementi dentro un array tramite indice.
 >int[] numbers = {1, 2, 3, 4, 5};
 >int position = Arrays.binarySearch(numbers, 3); // Restituisce 2 (posizione dell'elemento 3)
 
-4. Arrays.equals(array1, array2)
+4. **Arrays.equals(array1, array2)**
 	Verifica se due array sono uguali.
 > [!info] Example
 > ```java

@@ -8,10 +8,10 @@ La classe java.util.Random ha un metodo nextInt(int max) che genera un numero ca
 >Random random = new Random();
 >
 >// Generazione di un numero casuale compreso tra 0 (incluso) e 10 (escluso)
->int randomNumber = r.nextInt(10);
+>int randomNumber = random.nextInt(10);
 >
 >// Generazione di un numero casuale intero compreso tra 0 (incluso) e 1 (escluso)
 >double randomDouble = random.nextDouble();
 >
 >// Generazione di un numero casuale compreso tra un valore minimo e massimo specificato
->int randomBetween = random.nextInt(15 - 5 + 1) + 5;
+>int randomBetween = random.nextInt(10, 20) ;
