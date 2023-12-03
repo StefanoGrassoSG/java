@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/java OOP/Ereditarietà.md",
-                "mode": "preview",
+                "file": "java/Intro-java/Dati primitivi.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/java OOP/Intro java OOP.md",
+                "file": "java/java OOP/Java Collections Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/java OOP/Intro java OOP.md",
+                "file": "java/java OOP/Java Collections Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/java OOP/Intro java OOP.md",
+                "file": "java/java OOP/Java Collections Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/java OOP/Intro java OOP.md"
+                "file": "java/java OOP/Java Collections Framework.md"
               }
             }
           }
@@ -161,23 +161,28 @@
   },
   "active": "b84d9518792740d7",
   "lastOpenFiles": [
+    "java/Intro-java/Dati primitivi.md",
+    "java/java OOP/Java Collections Framework.md",
+    "java/Intro-java/Intro array.md",
+    "java/java OOP/Gestione errori.md",
     "java/java OOP/Ereditarietà.md",
-    "java/java OOP/Intro java OOP.md",
-    "README.md",
-    "java/java OOP/Livelli di accesso informazioni.md",
+    "java/java OOP/Interfacce.md",
+    "java/java OOP/Classi astratte.md",
     "java/java OOP/Composizione.md",
+    "java/java OOP/Intro java OOP.md",
+    "java/java OOP/Polimorfismo.md",
+    "java/Intro-java/Esempi utili semplici su intro-java.md",
+    "java/java OOP/Livelli di accesso informazioni.md",
+    "README.md",
     "java/Intro-java/Interagire col programma.md",
     "java/Intro-java/Random in java.md",
-    "java/Intro-java/Dati primitivi.md",
     "java/Intro-java/Classe Integer.md",
     "java/Intro-java/Casting.md",
     "java/Intro-java/Cicli.md",
     "java/Intro-java/Intro stringhe.md",
-    "java/Intro-java/Intro array.md",
     "java/Intro-java/Cos'è java.md",
     "java/Intro-java/Variabili.md",
     "java/Intro-java/Istruzioni condizionali.md",
-    "java/Intro-java/Esempi utili semplici su intro-java.md",
     "java/java OOP",
     "java/Intro-java",
     "java",
@@ -185,11 +190,6 @@
     "Content/Intro-java/Random in java.md",
     "Content/Intro-java/Istruzioni condizionali.md",
     "Content/Intro-java/Intro stringhe.md",
-    "Content/Intro-java/Intro array.md",
-    "Content/Intro-java/Interagire col programma.md",
-    "Content/Intro-java/Dati primitivi.md",
-    "Content/Intro-java/Classe Integer.md",
-    "Content/Intro-java/Cicli.md",
     "Content/Intro-java",
     "Content",
     "Senza nome.canvas"

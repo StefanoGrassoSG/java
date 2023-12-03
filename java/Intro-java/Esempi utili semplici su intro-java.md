@@ -99,3 +99,16 @@ Vediamo come controllare se una stringa è presente in un array:
 > 		System.out.println("non puoi entrare");
 > 	}
 > }
+
+Vediamo come mostrare un numero in cifre decimali decise da noi.
+(il risultato lo mantieniamo, lo stiamo solo mostrando diversamente)
+
+> [!info] Example
+> ```java
+> Calculator calculator = new Calculator();
+> 
+>  double sum = calculator.sum(2.3345345, 3.534534534);
+>  DecimalFormat decimal = new DecimalFormat("#.########");
+>  String formatted = decimal.format(sum2);
+>  System.out.println("somma decimali: " + formatted);
+>  //Restituisce 5,86906903 perchè abbiamo formattato con 8 cifre decimali
