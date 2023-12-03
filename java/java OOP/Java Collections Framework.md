@@ -84,7 +84,7 @@ Iterare sulle map:
 >map.put("elemento 3", 3);
 >map.put("elemento 4", 4);
 >
->Iterator<"String"> iterator = map.iterator();
+>Iterator<"String"> iterator = map.keySet().iterator();
 >while(iterator.hasNext()) {
 >	String key = iterator.next();
 >	System.out.println("chiave: " + key);
